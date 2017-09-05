@@ -1,0 +1,15 @@
+{
+  "name": "projectgumdrop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mantonx/FizzBuzz-Demo"
+  },
+  "author": "Matt Panton",
+  "license": "ISC"
+}
